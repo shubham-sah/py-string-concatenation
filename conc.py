@@ -1,3 +1,4 @@
+#Take input from poromt or predfine 
 word1 = input("First one here: ")
 word2 = input("Second one here: ")
 
